@@ -1,1 +1,1 @@
-# BudgettApp
+# BudgetApp
